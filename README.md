@@ -18,7 +18,7 @@ You can run this project directly in your browser without any installation.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Joya-01/Temperature-Convertor.git](https://github.com/Joya-01/Temperature-Convertor.git)
+   git clone https://github.com/Joya-01/Temperature-Convertor.git
 
 2. **Navigate to the folder:**
    ```bash
